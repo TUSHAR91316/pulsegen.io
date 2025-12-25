@@ -1,0 +1,29 @@
+[
+    {
+        "source": "G2",
+        "title": "A game changer for our team communication",
+        "description": "Slack has completely revolutionized how our team communicates. The channels feature allows us to keep conversations organized by topic, which is a huge improvement over email chains. The integration with other tools like Jira and Google Drive is seamless.",
+        "date": "2024-05-12T00:00:00",
+        "rating": 5.0,
+        "reviewer": "Sarah J.",
+        "url": "https://www.g2.com/products/slack/reviews/example1"
+    },
+    {
+        "source": "Capterra",
+        "title": "Good features but expensive",
+        "description": "The features are great, especially the huddles and easy file sharing. However, the pricing for the enterprise plan is a bit steep compared to competitors. It's worth it if you use all the features, but for small teams, it might be overkill.",
+        "date": "2024-04-20T00:00:00",
+        "rating": 4.0,
+        "reviewer": "Mike T.",
+        "url": "https://www.capterra.com/p/123/slack/reviews/example2"
+    },
+    {
+        "source": "TrustRadius",
+        "title": "Solid reliability and mobile app",
+        "description": "I mostly use the mobile app and it's very stable. Notifications are timely and I rarely miss a message. The search functionality could be better, sometimes it's hard to find old files.",
+        "date": "2024-03-15T00:00:00",
+        "rating": 8.5,
+        "reviewer": "Emily R.",
+        "url": "https://www.trustradius.com/products/slack/reviews/example3"
+    }
+]
